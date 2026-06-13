@@ -1,4 +1,11 @@
 # Creative Computing Society
+
+<!-- AUTO-PACKAGE-BADGES:START -->
+<!-- Auto-generated package badges -->
+
+![npm version](https://img.shields.io/npm/v/startbootstrap-creative?style=flat-square&logo=npm&color=blue) ![npm downloads](https://img.shields.io/npm/dw/startbootstrap-creative?style=flat-square&color=brightgreen) ![npm license](https://img.shields.io/npm/l/startbootstrap-creative?style=flat-square) [![Deployed](https://img.shields.io/badge/deployed-5.0.1-blue?style=flat-square)](https://www.npmjs.com/package/startbootstrap-creative)
+
+<!-- AUTO-PACKAGE-BADGES:END -->
 The repository for the Creative Computing Society's Hacktoberfest website. 
 
 Website can be found at: https://creative-computing-society.github.io
